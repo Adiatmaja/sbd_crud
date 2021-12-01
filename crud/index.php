@@ -43,7 +43,7 @@ $member = query("SELECT * FROM member");
 <br>
 <a href="penerbangan.php">Menuju Tabel Penerbangan</a>
 <br>
-<a href="trans.php">Menuju Transaksi</a>
+<a href="transaksi.php">Menuju Transaksi</a>
 
 </body>
 </html>

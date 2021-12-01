@@ -43,7 +43,7 @@ $penerbangan = query("SELECT * FROM penerbangan");
 <br>
 <a href="index.php">Menuju Data Member</a>
 <br>
-<a href="trans.php">Menuju Transaksi</a>
+<a href="transaksi.php">Menuju Transaksi</a>
 
 </body>
 </html>
